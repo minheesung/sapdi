@@ -1,3 +1,4 @@
 # SAP Data Intelligence
 
-extracting DI pipeline usage data using REST APIs
+This is the source code of the blog post: Analyzing SAP Data Intelligence Pipeline Usage: From REST API to SAC
+
